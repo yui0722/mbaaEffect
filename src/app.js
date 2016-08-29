@@ -122,7 +122,7 @@ var particleLayer = cc.Layer.extend({
 
     //debugText.setString("attrib:"+attrib);
   　　//HealとSlipスキル追加
-    var skillName = ["hibasira", "water", "word","yami"];
+    var skillName = ["hibasira", "water", "wood","yami"];
     var sName = "res." + skillName[attrib] + "Texture" + rare + "_plist";
     var sName2 = "res." + skillName[attrib] + "Texture2" + rare + "_plist";
     var sName3 = "res." + skillName[attrib] + "Texture3" + rare + "_plist";
